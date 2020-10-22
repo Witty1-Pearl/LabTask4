@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\LabTask4\MIN_VAL\obj\Debug\netcoreapp3.1\MIN_VAL.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask4\MIN_VAL\obj\Debug\netcoreapp3.1\MIN_VAL.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask4\MIN_VAL\obj\Debug\netcoreapp3.1\MIN_VAL.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask4\MIN_VAL\obj\Debug\netcoreapp3.1\MIN_VAL.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask4\MIN_VAL\bin\Debug\netcoreapp3.1\MIN_VAL.exe
+C:\CodebitsAcademy\LabTask4\MIN_VAL\bin\Debug\netcoreapp3.1\MIN_VAL.deps.json
+C:\CodebitsAcademy\LabTask4\MIN_VAL\bin\Debug\netcoreapp3.1\MIN_VAL.runtimeconfig.json
+C:\CodebitsAcademy\LabTask4\MIN_VAL\bin\Debug\netcoreapp3.1\MIN_VAL.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask4\MIN_VAL\bin\Debug\netcoreapp3.1\MIN_VAL.dll
+C:\CodebitsAcademy\LabTask4\MIN_VAL\bin\Debug\netcoreapp3.1\MIN_VAL.pdb
+C:\CodebitsAcademy\LabTask4\MIN_VAL\obj\Debug\netcoreapp3.1\MIN_VAL.dll
+C:\CodebitsAcademy\LabTask4\MIN_VAL\obj\Debug\netcoreapp3.1\MIN_VAL.pdb
+C:\CodebitsAcademy\LabTask4\MIN_VAL\obj\Debug\netcoreapp3.1\MIN_VAL.genruntimeconfig.cache

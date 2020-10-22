@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\LabTask4\ParkingCharges\obj\Debug\netcoreapp3.1\ParkingCharges.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask4\ParkingCharges\obj\Debug\netcoreapp3.1\ParkingCharges.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask4\ParkingCharges\obj\Debug\netcoreapp3.1\ParkingCharges.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask4\ParkingCharges\obj\Debug\netcoreapp3.1\ParkingCharges.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask4\ParkingCharges\bin\Debug\netcoreapp3.1\ParkingCharges.exe
+C:\CodebitsAcademy\LabTask4\ParkingCharges\bin\Debug\netcoreapp3.1\ParkingCharges.deps.json
+C:\CodebitsAcademy\LabTask4\ParkingCharges\bin\Debug\netcoreapp3.1\ParkingCharges.runtimeconfig.json
+C:\CodebitsAcademy\LabTask4\ParkingCharges\bin\Debug\netcoreapp3.1\ParkingCharges.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask4\ParkingCharges\bin\Debug\netcoreapp3.1\ParkingCharges.dll
+C:\CodebitsAcademy\LabTask4\ParkingCharges\bin\Debug\netcoreapp3.1\ParkingCharges.pdb
+C:\CodebitsAcademy\LabTask4\ParkingCharges\obj\Debug\netcoreapp3.1\ParkingCharges.dll
+C:\CodebitsAcademy\LabTask4\ParkingCharges\obj\Debug\netcoreapp3.1\ParkingCharges.pdb
+C:\CodebitsAcademy\LabTask4\ParkingCharges\obj\Debug\netcoreapp3.1\ParkingCharges.genruntimeconfig.cache

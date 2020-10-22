@@ -1,0 +1,13 @@
+C:\CodebitsAcademy\LabTask4\Exponent\bin\Debug\netcoreapp3.1\Exponent.exe
+C:\CodebitsAcademy\LabTask4\Exponent\bin\Debug\netcoreapp3.1\Exponent.deps.json
+C:\CodebitsAcademy\LabTask4\Exponent\bin\Debug\netcoreapp3.1\Exponent.runtimeconfig.json
+C:\CodebitsAcademy\LabTask4\Exponent\bin\Debug\netcoreapp3.1\Exponent.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask4\Exponent\bin\Debug\netcoreapp3.1\Exponent.dll
+C:\CodebitsAcademy\LabTask4\Exponent\bin\Debug\netcoreapp3.1\Exponent.pdb
+C:\CodebitsAcademy\LabTask4\Exponent\obj\Debug\netcoreapp3.1\Exponent.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask4\Exponent\obj\Debug\netcoreapp3.1\Exponent.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask4\Exponent\obj\Debug\netcoreapp3.1\Exponent.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask4\Exponent\obj\Debug\netcoreapp3.1\Exponent.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask4\Exponent\obj\Debug\netcoreapp3.1\Exponent.dll
+C:\CodebitsAcademy\LabTask4\Exponent\obj\Debug\netcoreapp3.1\Exponent.pdb
+C:\CodebitsAcademy\LabTask4\Exponent\obj\Debug\netcoreapp3.1\Exponent.genruntimeconfig.cache
